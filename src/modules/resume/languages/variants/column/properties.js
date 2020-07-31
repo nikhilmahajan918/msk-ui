@@ -22,7 +22,7 @@ const properties = {
         name: 'Language',
         type: propertyTypes.OBJECT,
         required: true,
-        languageName: {
+        value: {
           name: 'Language',
           type: propertyTypes.STRING,
           value: 'Language 1',
@@ -39,7 +39,7 @@ const properties = {
         name: 'Language',
         type: propertyTypes.OBJECT,
         required: true,
-        languageName: {
+        value: {
           name: 'Language',
           type: propertyTypes.STRING,
           value: 'Language 2',
